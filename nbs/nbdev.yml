@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LargeLanguageModels"
+  site-url: "https://abdelkareemkobo.github.io/LargeLanguageModels"
+  description: "Start to explore LLMs"
+  repo-branch: main
+  repo-url: "https://github.com/abdelkareemkobo/LargeLanguageModels"
