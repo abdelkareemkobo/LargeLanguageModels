@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "The Book",
+    "section": "",
+    "text": "The Book\n\nHello Transformers\nText Classification\nTransfer Anatomy\nMultilingaul Named Entitiy Recognition\nText Generation\nSummarization ****\nQuestion Answering\nMaking Transformers Efficient in Production\nDealing with Few and No Labels ***\nTraining Transformers From Scratch\nFututre Directions **** ### Mohammed Ahmed Notebooks\n\n\nfine-tuned models\nLLMs\nRAG ### Other Explorations\nvector database\nMedicine **** ### Arabic Challenges",
+    "crumbs": [
+      "The Book"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LargeLanguageModels",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "LargeLanguageModels"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "LargeLanguageModels",
+    "section": "Install",
+    "text": "Install\npip install LargeLanguageModels",
+    "crumbs": [
+      "LargeLanguageModels"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "LargeLanguageModels",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "LargeLanguageModels"
+    ]
+  }
+]
